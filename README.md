@@ -1,4 +1,4 @@
 # qwen-agents
 
-[https://github.com/wshobson/agents](Claude Agents), but for [https://github.com/QwenLM/qwen-code](Qwen code).
+[Claude Agents](https://github.com/wshobson/agents), but for [Qwen code](https://github.com/QwenLM/qwen-code).
 
